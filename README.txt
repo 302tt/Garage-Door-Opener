@@ -1,0 +1,1 @@
+This github contains the hardware and software info required to create a garage door opener using Arduino Uno and electric imp.
